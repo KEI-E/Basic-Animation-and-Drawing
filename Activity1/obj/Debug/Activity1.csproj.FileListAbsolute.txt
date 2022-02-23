@@ -1,0 +1,10 @@
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\obj\Debug\Activity1.Form1.resources
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\obj\Debug\Activity1.Properties.Resources.resources
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\obj\Debug\Activity1.csproj.GenerateResource.cache
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\obj\Debug\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\bin\Debug\Activity1.exe.config
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\bin\Debug\Activity1.exe
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\bin\Debug\Activity1.pdb
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\obj\Debug\Activity1.exe
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\obj\Debug\Activity1.pdb
+C:\Users\Kaye\OneDrive\Documents\GitHub\CS345\Week 3\Activity1\Activity1\obj\Debug\Activity1.csproj.AssemblyReference.cache
